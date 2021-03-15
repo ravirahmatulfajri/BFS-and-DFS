@@ -1,3 +1,13 @@
+# TUGAS 2
+NAMA : RAVI RAHMATUL FAJRI
+NPM : 1184040
+KELAS : D4 TEKNIK INFORMATIKA 3A
+MATA KULIAH : SISTEM PAKAR
+DOSEN PENGAMPU : M NURKAMAL F, S.T., M.T.
+
+# forked from asksom/Forward-Backward
+https://github.com/singgihnft/BFS-and-DFS
+
 # Artificial-Intelligence
 Kecerdasan Buatan
 
